@@ -1,5 +1,4 @@
 ## Hi! 👋 I'm Andrej. Python-developer.
----
 #### Yandex.Practicum student
 
 ### Languages and Tools:
